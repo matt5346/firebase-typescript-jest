@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`topHeader.vue has the expected html structure 1`] = `
+<div
+  class="top-header"
+>
+  <div
+    class="top-header__inner"
+  >
+    <h1>
+      User status
+    </h1>
+     
+    <h2>
+      <span>
+        Logged in 
+      </span>
+       
+      <span
+        class="status"
+      >
+        <b>
+          No
+        </b>
+      </span>
+    </h2>
+  </div>
+   
+  <div>
+    <!---->
+  </div>
+</div>
+`;
